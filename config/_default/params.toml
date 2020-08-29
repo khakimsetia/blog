@@ -1,0 +1,138 @@
+logoText = "MiofDK"
+logoType = "short" # long, short
+description = "Music illution of Dreaming Kingdom"
+custom_css = []
+custom_js = []
+useFaviconGenerator = true
+meta_image = ""
+themecolor = ""
+
+themeOptions = ["light", "dark"]
+notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume", "gallery"]
+notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume"]
+notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
+notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
+
+viewportSize = "wide" # widest, wider, wide, normal, narrow
+enableUiAnimation = true
+hideSingleContentsWhenJSDisabled = false
+enablePinnedPosts = true
+minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
+
+# header
+homeHeaderType = "text" # text, img, slide, typewriter
+
+# menu
+#showMobileMenuTerms = ["tags"]
+
+# body
+enableBreadcrumb = true
+enablePhotoSwipe = true
+enableSearch = true
+enableSearchHighlight = true
+enableGoToTop = true
+enableWhoami = true
+summaryShape = "classic" # card, classic, compact
+searchResultPosition = "main" # side, main
+archiveGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
+archivePaginate = 13
+paginateWindow = 1
+talksPaginate = 5
+talksGroupByDate = "2006"
+pubPaginate = 20
+
+# whoami
+myname = "khakimsetia"
+email = "khakimsetia@gmail.com"
+whoami = "'Tidak ada yang tidak mungkin selama kita masih berusaha'"
+bioImageUrl = ""
+useGravatar = false
+location = "Pekalongan, Indonesia"
+organization = "Kiseri Corp"
+link = "https://t.me/khakimsetia"
+
+# sidebar
+enableBio = true
+enableBioImage = true
+enableSidebar = true
+enableSidebarTags = true
+enableSidebarSeries = false
+enableSidebarCategories = false
+enableHomeSidebarTitles = true
+enableListSidebarTitles = true
+enableToc = true
+hideToc = false
+tocFolding = true
+tocPosition = "inner" # inner, outer
+enableTocSwitch = true
+itemsPerCategory = 5
+sidebarPosition = "left"
+tocLevels = ["h2", "h3", "h4"]
+enableSidebarPostsByOrder = false
+
+# footer
+showPoweredBy = true
+showFeedLinks = false
+showSocialLinks = false
+enableLangChange = false
+enableThemeChange = true
+
+# service
+googleTagManager = "" # GTM-XXXXXX
+baiduAnalytics = ""
+enableBusuanzi = false
+busuanziSiteUV = true
+busuanziSitePV = true
+busuanziPagePV = true
+
+# rss
+updatePeriod = "" # Possible values: 'hourly', 'daily', 'weekly', 'monthly', or 'yearly'.
+updateFrequency = ""
+fullContents = false
+
+# comment
+enableComment = true
+disqus_shortname = ""
+commento = false
+
+[telegram]
+  enable = false
+  siteId = ""
+  dataLimit = 5
+
+[socialOptions]
+  email = "mailto:khakimsetia@gmail.com"
+  phone = ""
+  facebook = ""
+  twitter = ""
+  github = ""
+  instagram = ""
+  youtube = ""
+  stack-exchange = ""
+  telegram = ""
+  steam = ""
+  gitlab = ""
+  whatsapp = ""
+  xmpp = ""
+  google-scholar = ""
+
+# possible share name: ["facebook","twitter", "reddit", "linkedin", "tumblr", "weibo", "douban", "line"]
+
+[[share]]
+  name = "facebook"
+  username = ""
+
+[[share]]
+  name = "twitter"
+  username = ""
+
+[[share]]
+  name = "line"
+  username = ""
+
+[[footerLinks]]
+  name = ""
+  link = ""
+[[footerLinks]]
+  name = ""
+  link = ""

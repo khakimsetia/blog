@@ -1,0 +1,101 @@
+[search-placeholder]
+other = "Cari"
+
+[summary-dateformat]
+other = "2 January, 2006"
+
+[reading-time]
+other = "menit utk membaca"
+
+[tags]
+other = "Tags"
+
+[categories]
+other = "Kategori"
+
+[series]
+other = "Seri"
+
+[archive-dateformat]
+other = "2 Jan"
+
+[talks-dateformat]
+other = "2 Jan"
+
+[single-dateformat]
+other = "2 January, 2006"
+
+[pub-dateformat]
+other = "02-01-2006"
+
+[resume-dateformat]
+other = "January, 2006"
+
+[single-related]
+other = "Baca Juga"
+
+[single-writtenBy]
+other = "DITULIS OLEH"
+
+[toc-label]
+other = "Apa yg ada di halaman ini"
+
+[counter-site-pv]
+other = "Total dilihat"
+
+[counter-site-uv]
+other = "Total pengunjung"
+
+[counter-page-pv]
+other = "dilihat"
+
+[donate-message]
+other = "Support penulis dengan"
+
+[share-message]
+other = "Bagikan yuk.."
+
+[contact-name]
+other = "Nama"
+
+[contact-email]
+other = "Email"
+
+[contact-tel]
+other = "Tel"
+
+[contact-file]
+other = "File"
+
+[contact-message]
+other = "Pesan"
+
+[contact-send]
+other = "Kirim"
+
+[contact-browse]
+other = "Browse"
+
+[tooltip-home]
+other = "Home"
+
+[tooltip-written]
+other = "Ditulis pada"
+
+[tooltip-modified]
+other = "Diedit pada"
+
+[tooltip-reading-time]
+other = "Waktu Baca"
+
+[showcase-overview]
+other = "Overview"
+
+[showcase-pinned]
+other = "Pinned"
+
+[nojs-message]
+other = "Halaman ini akan lebih baik dilihat dengan mengaktifkan JavaScript"
+
+[posts-by-order]
+other = "Postingan Populer"

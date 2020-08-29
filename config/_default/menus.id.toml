@@ -1,0 +1,23 @@
+[[main]]
+  identifier = "timeline"
+  name = "⏳ Timeline Post"
+  url = "timeline"
+  weight = 1
+
+[[main]]
+  identifier = "tags"
+  name = "🏷️ Tag"
+  url = "tags"
+  weight = 2
+
+[[main]]
+  identifier = "posts"
+  name = "✏️ Postingan"
+  url = "posts"
+  weight = 3
+
+[[main]]
+  identifier = "about"
+  name = "🌀 About"
+  url = "about"
+  weight = 4
